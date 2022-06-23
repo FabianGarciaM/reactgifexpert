@@ -1,4 +1,4 @@
-#Gif exper APP
+# Gif exper APP
 
 este es mi aplicacion del curso de React 
 
